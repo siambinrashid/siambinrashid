@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20There" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Hi!%20%20There" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&pause=1000&color=F72DBB&center=true&vCenter=true&width=435&lines=Its+me%2C+Siam!;A+3D+Mechanical+Designer;A+Drone+%26+Robotics+Enthusiast;A+Data+Science+%26+AI+Enthusiast;A+Problem+Solver;A+Dreamer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=25&pause=1000&color=F72DBB&center=true&vCenter=true&width=435&lines=Its+me%2C+Siam!;A+3D+Mechanical+Designer;A+Drone+%26+Robotics+Enthusiast;A+Data+Science+%26+AI+Enthusiast;A+Problem+Solver;A+Dreamer" />
 </p>
+
 
 ---
 
@@ -14,20 +15,34 @@
 
 ---
 
-I am an undergraduate student in the Department of Computer Science and Engineering (CSE) at United International University (UIU), Bangladesh. I am currently pursuing my B.Sc. with a strong focus on Artificial Intelligence, Machine Learning, and Robotics. My goal is to build robots & intelligent systems that integrate software, hardware, and data-driven decision-making.
+#### 👨‍💻 About Me
+
+**Siam Bin Rashid**  
+CSE Undergraduate, United International University
+
+##### 🧭 Focus
+- Intelligent systems operating in real-world environments  
+- Machine Learning, Data Science, and Perception  
+- Robotics, SLAM, and Autonomous Systems  
+
+##### ⚙️ Background
+- Cross-domain experience spanning software and hardware systems  
+- Strong foundation in embedded platforms, IoT, and system integration  
+- Practical exposure to robotics architectures and fabrication workflows  
+
+##### 🔬 Current Direction
+- Advancing in machine learning, data-driven systems, and image processing  
+- Exploring modern robotics frameworks and simulation environments
+- Building systems that integrate perception, decision-making, and execution  
+
+##### 🧠 Engineering Approach
+- Systems-level thinking across software, hardware, and control  
+- Focus on real-world deployment over isolated prototypes  
+- Emphasis on efficiency, scalability, and practical implementation  
 
 ---
 
-## 🔬 Research Interests
-- Machine Learning (ML)
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-- Vision-Language Action Models (VLAM)
-- Simultaneous Localization and Mapping (SLAM)
-- Robotics
-- Drone Technology
 
----
 
 
 
